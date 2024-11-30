@@ -1,0 +1,54 @@
+/* Style for the application title */
+.label {
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #333; /* Dark gray text */
+    -fx-padding: 10px;
+}
+
+/* Style for buttons */
+.button {
+    -fx-background-color: #007bff; /* Blue background */
+    -fx-text-fill: white; /* White text */
+    -fx-font-size: 14px;
+    -fx-padding: 5 15;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+}
+.button:hover {
+    -fx-background-color: #0056b3; /* Darker blue on hover */
+}
+
+/* Style for text fields */
+.text-field {
+    -fx-border-color: #007bff;
+    -fx-border-radius: 5;
+    -fx-padding: 5;
+    -fx-font-size: 14px;
+}
+
+/* Style for the dropdown menu */
+.combo-box {
+    -fx-font-size: 14px;
+    -fx-background-color: #ffffff;
+    -fx-border-color: #007bff;
+    -fx-border-radius: 5;
+}
+
+/* Style for the result table */
+.table-view {
+    -fx-font-size: 14px;
+    -fx-border-color: #dddddd;
+    -fx-border-radius: 5;
+}
+.table-column {
+    -fx-alignment: center; /* Center text in columns */
+}
+
+/* Style for the VBox (container) */
+.vbox {
+    -fx-background-color: #f8f9fa; /* Light gray background */
+    -fx-padding: 20;
+    -fx-spacing: 20;
+    -fx-border-radius: 5;
+}
