@@ -56,7 +56,7 @@ The simulator is built as a basic Java application with an in-built Graphical Us
 
 --> INSTALLATION:
 
-1. Clone the repository to your local machine using:https://github.com/khushi-0912/CpuScheduler.git
+1. Clone the repository to your local machine using: git clone https://github.com/khushi-0912/CpuScheduler.git
 
 2. Navigate to the project directory: cd CpuScheduler
 
